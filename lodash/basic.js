@@ -20,6 +20,6 @@
     };
 
     //map each
-    let mappedFreinds = nameMapper(freinds);
-    _.each(mappedFreinds, log); 
+    let mappedFriends = nameMapper(freinds);
+    _.each(mappedFriends, log); 
 })();
